@@ -1,0 +1,43 @@
+{
+  "productId": "245126188",
+  "avg": 5,
+  "count": 5,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "VIVIANE O.",
+      "rating": 5,
+      "text": "Me surpreendi,o anel e lindíssimo e o atendimento desde a escolha,dúvidas e pós atendimento é ótimo.",
+      "date": "2025-10-21",
+      "verified": false
+    },
+    {
+      "author": "Diego O.",
+      "rating": 5,
+      "text": "Excelente produto,chegou antes do prazo muito lindo minha noiva amou",
+      "date": "2025-11-19",
+      "verified": false
+    },
+    {
+      "author": "Caique",
+      "rating": 5,
+      "text": "Atendimento incrível, envio incrível e qualidade incrível do produto! Dá pra ver que tomam cuidado em cada parte do processo. Desde a paciência do atendimento até a agilidade a atenção no envio. Recomendo muito!",
+      "date": "2025-12-15",
+      "verified": false
+    },
+    {
+      "author": "Joice",
+      "rating": 5,
+      "text": "Perfeito! Cheou antes do prazo.",
+      "date": "2026-01-07",
+      "verified": false
+    },
+    {
+      "author": "Sarah L.",
+      "rating": 5,
+      "text": "O anel é simplesmente perfeito!! Confesso que fiquei receosa em efetuar a compra por não conhecer a empresa. Mas após conversar com a empresa no whats app senti confiança. Recomendo demais!",
+      "date": "2026-01-12",
+      "verified": false
+    }
+  ]
+}

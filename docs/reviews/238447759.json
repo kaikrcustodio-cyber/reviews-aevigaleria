@@ -1,0 +1,29 @@
+{
+  "productId": "238447759",
+  "avg": 5,
+  "count": 3,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Gabriela C.",
+      "rating": 5,
+      "text": "Lindo anel! Atendimento impecável!",
+      "date": "2025-09-29",
+      "verified": false
+    },
+    {
+      "author": "Juliana S.",
+      "rating": 5,
+      "text": "Ameeeei! Muito delicado!",
+      "date": "2025-10-07",
+      "verified": false
+    },
+    {
+      "author": "Lilian P.",
+      "rating": 5,
+      "text": "Anel lindo, chegou no prazo e é exatamente como a ilustração do site. Muito satisfeita com a compra.",
+      "date": "2025-12-05",
+      "verified": false
+    }
+  ]
+}

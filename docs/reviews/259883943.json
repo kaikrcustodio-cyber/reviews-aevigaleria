@@ -1,0 +1,43 @@
+{
+  "productId": "259883943",
+  "avg": 5,
+  "count": 5,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Luiz S.",
+      "rating": 5,
+      "text": "Atendimento impecável, me enviaram todas as fotos e vídeos que pedi. O anel ficou perfeito, muito bonito e brilhante, minha noiva amou.",
+      "date": "2025-10-07",
+      "verified": false
+    },
+    {
+      "author": "Clovis S.",
+      "rating": 5,
+      "text": "A peça é excepcional. Anel elegante, bonito, com acabamento excelente. O tratamento com o cliente é de muita qualidade, o atendimento é rápido, objetivo, muito solícito. A experiência de compra ê muito boa. Tenho certeza que a noiva irá adorar.",
+      "date": "2025-10-09",
+      "verified": false
+    },
+    {
+      "author": "Luiz O.",
+      "rating": 5,
+      "text": "O anel é muito bem feito e a caixinha também é de extremo bom gosto. Além disso, o atendimento está de parabéns. Foram sempre muito solícitos e respondendo rápido. E o prazo de entrega foi o mais curto que eu já vi! Vou fazer minhas alianças aqui também!",
+      "date": "2025-10-16",
+      "verified": false
+    },
+    {
+      "author": "FELIPE R.",
+      "rating": 5,
+      "text": "Pedido chegou antes do esperado, bem embalado e tudo certinho. Com toda certeza vou indicar para amigos no futuro.",
+      "date": "2026-01-21",
+      "verified": false
+    },
+    {
+      "author": "Gustavo S.",
+      "rating": 5,
+      "text": "Loja confiável, atendimento muito bom!",
+      "date": "2026-02-10",
+      "verified": true
+    }
+  ]
+}

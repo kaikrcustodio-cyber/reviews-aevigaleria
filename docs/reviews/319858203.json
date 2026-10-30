@@ -1,0 +1,22 @@
+{
+  "productId": "319858203",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Ramona",
+      "rating": 5,
+      "text": "Minha experiência foi incrível! Esse anel é um espetáculo e fiquei muito emocionada de recebê-lo de presente da pessoa que eu amo!",
+      "date": "2026-01-24",
+      "verified": false
+    },
+    {
+      "author": "Juan S.",
+      "rating": 5,
+      "text": "O anel é absolutamente espetacular, atendimento perfeito! Parabéns, em breve farei novas negociações!",
+      "date": "2026-03-23",
+      "verified": true
+    }
+  ]
+}

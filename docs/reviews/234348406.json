@@ -1,0 +1,15 @@
+{
+  "productId": "234348406",
+  "avg": 5,
+  "count": 1,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Davy",
+      "rating": 5,
+      "text": "Acabamento perfeito, minha noiva amou!",
+      "date": "2025-10-09",
+      "verified": false
+    }
+  ]
+}

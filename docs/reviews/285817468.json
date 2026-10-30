@@ -1,0 +1,22 @@
+{
+  "productId": "285817468",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Vera F.",
+      "rating": 5,
+      "text": "Joia perfeita. Minha joalheria preferida AEVI.",
+      "date": "2026-01-30",
+      "verified": false
+    },
+    {
+      "author": "Patrick",
+      "rating": 5,
+      "text": "Pedi hoje a minha namorada em casamento. Estava com esse anel maravilhoso nas mãos e somente fucei muito agradecido pela dedicação e profissionalismo do time que trabalho, consultou e envio o anel com a maior dedicação. Muito obrigado a todos envolvidos",
+      "date": "2026-06-24",
+      "verified": true
+    }
+  ]
+}

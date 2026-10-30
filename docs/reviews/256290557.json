@@ -1,0 +1,57 @@
+{
+  "productId": "256290557",
+  "avg": 5,
+  "count": 7,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "André S.",
+      "rating": 5,
+      "text": "Minha esposa amou o anel, uma jóia impecável.",
+      "date": "2025-10-07",
+      "verified": false
+    },
+    {
+      "author": "Leonardo",
+      "rating": 5,
+      "text": "No começo fiquei receoso de comprar, pois vi em um anúncio no instagram. Porém após o atendimento impecável de toda a equipe, eu comprei o mesmo. O anel é simplesmente lindo e impecável nos detalhes. Recomendo muito a AEVI.",
+      "date": "2025-10-08",
+      "verified": false
+    },
+    {
+      "author": "Hipolito V.",
+      "rating": 5,
+      "text": "Fui muito bem atendido desde o primeiro contato, peça de excelente qualidade, muito satisfeito com a compra!",
+      "date": "2025-11-26",
+      "verified": false
+    },
+    {
+      "author": "Gabriel A.",
+      "rating": 5,
+      "text": "Como a maioria, vc fica com um certo medo de comprar uma joia assim on-line , mas o atendimento e a joia é excelente… comprei o meu e ele veio perfeito, impecável",
+      "date": "2025-12-17",
+      "verified": false
+    },
+    {
+      "author": "Cecilia",
+      "rating": 5,
+      "text": "Trabalho impecável, muito atenciosos e com resposta rápida, anel perfeito igual da propaganda, recomendo muito!",
+      "date": "2025-12-17",
+      "verified": false
+    },
+    {
+      "author": "Transfides J.",
+      "rating": 5,
+      "text": "Joia muito bonita! Excelente qualidade.",
+      "date": "2026-02-18",
+      "verified": true
+    },
+    {
+      "author": "Vitor C.",
+      "rating": 5,
+      "text": "Perfeito",
+      "date": "2026-06-29",
+      "verified": true
+    }
+  ]
+}

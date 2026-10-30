@@ -1,0 +1,57 @@
+{
+  "productId": "245912581",
+  "avg": 4.9,
+  "count": 7,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Gabriela S.",
+      "rating": 5,
+      "text": "Lindo demais!!",
+      "date": "2025-08-17",
+      "verified": false
+    },
+    {
+      "author": "Silvana R.",
+      "rating": 5,
+      "text": "Anel perfeito, delicado mas que se destaca pela elegância. Amei!",
+      "date": "2025-08-17",
+      "verified": false
+    },
+    {
+      "author": "Mariana S.",
+      "rating": 4,
+      "text": "Anéis lindos, excelente atendimento pós-venda! Já comprei outros e estou aguardando",
+      "date": "2025-08-22",
+      "verified": false
+    },
+    {
+      "author": "Samuel",
+      "rating": 5,
+      "text": "O anel pelas fotos é lindo, mas não se enganem, apesar das expectativas altas: ele supera muito todas elas. Um anel com tanta qualidade por esse preço, parecia um sonho, mas é real! Super recomendo. Agradeço a equipe por fazer parte desse momento!",
+      "date": "2025-10-16",
+      "verified": false
+    },
+    {
+      "author": "Márcia R.",
+      "rating": 5,
+      "text": "Comprar com a AEVI foi uma ótima experiência desde o primeiro contato. Eles são gentis, prestativos, tiram todas as dúvidas. Carinho desde a compra até pós entrega!\nO anel mini star é lindo, mais lindo ainda que na foto. E é de uma delicadeza, eu amei!",
+      "date": "2025-11-26",
+      "verified": false
+    },
+    {
+      "author": "Joice",
+      "rating": 5,
+      "text": "Perfeito! Chegou antes do prazo.",
+      "date": "2026-01-07",
+      "verified": false
+    },
+    {
+      "author": "Larissa B.",
+      "rating": 5,
+      "text": "Uma preciosidade, um brilho que não tem igual, além de ser extremamente delicado e autêntico!",
+      "date": "2026-04-21",
+      "verified": true
+    }
+  ]
+}

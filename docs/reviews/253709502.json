@@ -1,0 +1,36 @@
+{
+  "productId": "253709502",
+  "avg": 5,
+  "count": 4,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Jhon P.",
+      "rating": 5,
+      "text": "A peça é linda e ficamos satisfeito mas o que eu mais gostei foi o atendimento, atenção, cuidado e todo carinho que eles têm com o cliente, tanto na Venda como no pós venda!",
+      "date": "2026-01-11",
+      "verified": false
+    },
+    {
+      "author": "Cecília",
+      "rating": 5,
+      "text": "Fui surpreendida com esse anel no meu pedido de noivado, e estou encantada com a delicadeza e perfeição!! Parabéns!!",
+      "date": "2026-01-19",
+      "verified": false
+    },
+    {
+      "author": "João R.",
+      "rating": 5,
+      "text": "A compra foi muito bem orientada e segura com a AEVI! Quando realizei o contato com eles, foram muito atenciosos e solícitos, responderam minhas dúvidas de maneira eficiente. O Alan entrou em contato comigo me explicou sobre meu pedido e envio!",
+      "date": "2026-03-24",
+      "verified": true
+    },
+    {
+      "author": "Gustavo T.",
+      "rating": 5,
+      "text": "O produto é excelente, uma peça muito delicada e cheio de detalhes encantadores.",
+      "date": "2026-04-29",
+      "verified": true
+    }
+  ]
+}

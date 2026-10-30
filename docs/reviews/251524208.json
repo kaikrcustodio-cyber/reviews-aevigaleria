@@ -1,0 +1,22 @@
+{
+  "productId": "251524208",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Joyce",
+      "rating": 5,
+      "text": "O anel é muito lindo!",
+      "date": "2025-10-29",
+      "verified": false
+    },
+    {
+      "author": "Ramona",
+      "rating": 5,
+      "text": "Esse foi o primeiro anel que ganhei do meu noivo quando ainda éramos namorados. Simplesmente perfeito e eu uso junto com a aliança e o com o anel de noivado.",
+      "date": "2026-01-24",
+      "verified": false
+    }
+  ]
+}

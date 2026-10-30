@@ -1,0 +1,22 @@
+{
+  "productId": "293249635",
+  "avg": 4.5,
+  "count": 2,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Roberto R.",
+      "rating": 4,
+      "text": "Foi fácil comprar no site, o acompanhamento da equipe de vendas foi excelente e a entrega foi no prazo. Gostei muito do produto.",
+      "date": "2026-04-29",
+      "verified": true
+    },
+    {
+      "author": "Leonardo C.",
+      "rating": 5,
+      "text": "Desde o primeiro contato tive uma experiência de excelência no atendimento, produção, cuidado e carinho com o pedido. Sempre atenciosos e proativos no atendimento. E o mais importante minha noiva amou a jóia.",
+      "date": "2026-10-04",
+      "verified": true
+    }
+  ]
+}

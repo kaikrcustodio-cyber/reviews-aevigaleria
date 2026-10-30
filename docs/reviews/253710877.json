@@ -1,0 +1,29 @@
+{
+  "productId": "253710877",
+  "avg": 5,
+  "count": 3,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Carla G.",
+      "rating": 5,
+      "text": "Anel lindo. Chegou antes do prazo. O mais importante é a comunicação entre a AEVI e o cliente. Podem confiar.",
+      "date": "2025-10-27",
+      "verified": false
+    },
+    {
+      "author": "Thauan L.",
+      "rating": 5,
+      "text": "Excelente experiência de compra, bem informativa desde a aquisição até o acompanhamento da entrega.\nEstou muito satisfeito com o acabamento do anel.",
+      "date": "2025-12-04",
+      "verified": false
+    },
+    {
+      "author": "Danyelle",
+      "rating": 5,
+      "text": "Anel lindo, delicado, exatamente como eu imaginei, minha noiva amou , realizei um sonho",
+      "date": "2026-07-14",
+      "verified": false
+    }
+  ]
+}

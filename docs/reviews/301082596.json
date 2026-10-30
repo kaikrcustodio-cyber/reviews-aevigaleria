@@ -1,0 +1,29 @@
+{
+  "productId": "301082596",
+  "avg": 5,
+  "count": 3,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Viviane",
+      "rating": 5,
+      "text": "O atendimento foi maravilhoso do começo ao fim, tiraram todas as dúvidas e ajudaram até a definir um tamanho e coube perfeitamente. Transmitiram toda a segurança na compra, chegou muito rápido. Recomendo demais!",
+      "date": "2025-12-06",
+      "verified": false
+    },
+    {
+      "author": "Heloisa F.",
+      "rating": 5,
+      "text": "O anel é lindíssimo! O atendimento foi maravilhoso. Amei a compra e com certeza comprarei outros anéis da AEVI. Super recomendo.",
+      "date": "2026-03-28",
+      "verified": true
+    },
+    {
+      "author": "Isadora L.",
+      "rating": 5,
+      "text": "Anel mais que perfeito!! Solicitei a personalização deste anel e foram muito solícitos, a simulação 3D que enviaram antes de finalizar o pedido ficou idêntica ao anel. Pós venda muito bom também! Enviaram certificados da joia e do teor do ouro medido na própria joia, impecável!!",
+      "date": "2026-10-09",
+      "verified": false
+    }
+  ]
+}

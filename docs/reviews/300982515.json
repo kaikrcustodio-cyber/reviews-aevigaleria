@@ -1,0 +1,22 @@
+{
+  "productId": "300982515",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "LUCIANO T.",
+      "rating": 5,
+      "text": "Anel impecável, brilho maravilhoso. Transparência total no processo de compra, em nenhum momento me senti inseguro, achando que daria algo errado. Fui bem atendido do início ao fim.",
+      "date": "2025-11-12",
+      "verified": false
+    },
+    {
+      "author": "Darlan",
+      "rating": 5,
+      "text": "Anel muito bem feito e ótimo atendimento, chegou no prazo combinado, são de confiança, recomendo!",
+      "date": "2025-12-05",
+      "verified": false
+    }
+  ]
+}

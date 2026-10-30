@@ -1,0 +1,15 @@
+{
+  "productId": "333900838",
+  "avg": 5,
+  "count": 1,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Vitor M.",
+      "rating": 5,
+      "text": "Anel maravilhoso",
+      "date": "2026-07-01",
+      "verified": true
+    }
+  ]
+}

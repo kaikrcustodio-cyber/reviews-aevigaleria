@@ -1,0 +1,36 @@
+{
+  "productId": "291783699",
+  "avg": 5,
+  "count": 4,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Alexandre C.",
+      "rating": 5,
+      "text": "Produto excelente, comprei em ouro branco e a equipe produziu e enviou rapidamente, veio também com o certificado de autenticidade. Muito bom!",
+      "date": "2025-12-17",
+      "verified": false
+    },
+    {
+      "author": "Ruan A.",
+      "rating": 5,
+      "text": "Ótima qualidade e atendimento!! Recomendo 100%",
+      "date": "2026-01-04",
+      "verified": false
+    },
+    {
+      "author": "Julia P.",
+      "rating": 5,
+      "text": "Lindo o anel! Eu e meu noivo escolhemos para marcar essa nova fase.\nO atendimento da Aevi é muito atencioso!",
+      "date": "2026-01-23",
+      "verified": false
+    },
+    {
+      "author": "Cynthia P.",
+      "rating": 5,
+      "text": "Realmente fiquei impressionada com a delicadeza e o acabamento da jóia.",
+      "date": "2026-02-19",
+      "verified": true
+    }
+  ]
+}

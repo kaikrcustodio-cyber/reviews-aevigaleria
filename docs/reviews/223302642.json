@@ -1,0 +1,22 @@
+{
+  "productId": "223302642",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Matheus S.",
+      "rating": 5,
+      "text": "A aliança é simplesmente linda! Exatamente como eu imaginava, tem um brilho incrível, acabamento perfeito e um design elegante. Era tudo o que eu esperava e até mais! A qualidade é excelente e dá pra ver o capricho nos detalhes.",
+      "date": "2025-10-08",
+      "verified": false
+    },
+    {
+      "author": "Kevin S.",
+      "rating": 5,
+      "text": "Los productos de esta joyería son hermosos, me antieron muy bien y aunque tuve problemas con mi pago ya que mi tarjeta es extranjera se hizo todo lo posible para hacer efectiva la compra. Calidad buena y atienden muy bien al extranjero, recomiendo",
+      "date": "2025-10-28",
+      "verified": false
+    }
+  ]
+}

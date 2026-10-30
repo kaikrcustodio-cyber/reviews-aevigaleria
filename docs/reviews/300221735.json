@@ -1,0 +1,22 @@
+{
+  "productId": "300221735",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "TACIO G.",
+      "rating": 5,
+      "text": "Ótimo atendimento. Tudo ágil. Entrega no prazo. Tudo perfeito. Podem comprar sem medo",
+      "date": "2025-11-12",
+      "verified": false
+    },
+    {
+      "author": "Erick M.",
+      "rating": 5,
+      "text": "Atendimento de excelência. A joia é linda e coube perfeitamente na minha noiva.\nMuitos detalhes e a entrega chegou bem antes do prazo estipulado. Parabéns pelo serviço!",
+      "date": "2025-11-26",
+      "verified": false
+    }
+  ]
+}

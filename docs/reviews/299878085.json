@@ -1,0 +1,43 @@
+{
+  "productId": "299878085",
+  "avg": 5,
+  "count": 5,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Akio",
+      "rating": 5,
+      "text": "Muito bom, não troco por nada o produto, serviço e atendimento da aevi",
+      "date": "2025-11-26",
+      "verified": false
+    },
+    {
+      "author": "Larissa M.",
+      "rating": 5,
+      "text": "Eu e meu pai compramos para dar de presente de aniversário para minha mãe.\nEla amou! O anel é perfeito, delicado, ficou lindo junto da aliança.\nSuper recomendo, porque o atendimento é impecável do começo ao fim.",
+      "date": "2025-11-26",
+      "verified": false
+    },
+    {
+      "author": "Cecília S.",
+      "rating": 5,
+      "text": "Fui muito bem atendida! Todo o processo de compra foi on-line. Me passaram segurança. Me entregaram um excelente produto. MT bem feito. MT bem acabado! Recomendo!",
+      "date": "2026-01-02",
+      "verified": false
+    },
+    {
+      "author": "Thayana A.",
+      "rating": 5,
+      "text": "Minha experiência com a empresa maravilhosa, desde a compra, pós venda e entrega.\nChegou no prazo e o anel é perfeito, idêntico a foto, super delicado como eu queria!\nAmei tudo",
+      "date": "2026-01-21",
+      "verified": false
+    },
+    {
+      "author": "Diego L.",
+      "rating": 5,
+      "text": "Conheci a loja por propaganda do Instagram e assim que vi esse anel 3 Marias eu decidi que era o que eu iria dar de noivado. Esse pedido ocontecerá daqui há duas semanas, mas ele chegou sem nenhum problema, todo o pedido foi feito no site e o atendente me passando as atualizações pelo WhatsApp,  inclusive, me mandando foto do resultado final. Pode confiar, o anel é lindo.",
+      "date": "2026-04-07",
+      "verified": true
+    }
+  ]
+}

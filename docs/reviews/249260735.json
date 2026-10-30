@@ -1,0 +1,22 @@
+{
+  "productId": "249260735",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Maria C.",
+      "rating": 5,
+      "text": "Produto maravilhoso, embalado e feito com carinho e cuidado! Sou fã da equipe da Aevi, desde o atendimento até a entrega, tudo sempre impecável!",
+      "date": "2025-10-29",
+      "verified": false
+    },
+    {
+      "author": "Roberto C.",
+      "rating": 5,
+      "text": "Entrega rapida e eficiente! Joias simplesmente lindas, elegantes e singelas. Farão parte da historia da minha família. Obrigado aos que fizeram essas obras maravilhosas.",
+      "date": "2025-12-03",
+      "verified": false
+    }
+  ]
+}

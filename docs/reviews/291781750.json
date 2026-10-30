@@ -1,0 +1,22 @@
+{
+  "productId": "291781750",
+  "avg": 5,
+  "count": 2,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Ana C.",
+      "rating": 5,
+      "text": "Lindíssimo!!!",
+      "date": "2026-01-15",
+      "verified": false
+    },
+    {
+      "author": "Vinicius",
+      "rating": 5,
+      "text": "Comprei como anel de formatura da minha esposa. Ela adorou, os diamantes brilham muito e a esmeralda é bem delicada no centro.",
+      "date": "2026-07-31",
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "productId": "250914474",
+  "avg": 5,
+  "count": 3,
+  "updatedAt": "2026-10-30",
+  "reviews": [
+    {
+      "author": "Joana",
+      "rating": 5,
+      "text": "Maravilhoso, lindo e delicado. Um pós impecável.",
+      "date": "2026-07-14",
+      "verified": false
+    },
+    {
+      "author": "Johnata S.",
+      "rating": 5,
+      "text": "Anel perfeito em cada detalhe. O trabalho no ouro e o destaque das pedras mostram o cuidado e a excelência da marca. A cintilação dos diamantes é incrível! Muito satisfeito com a compra e com todo o atendimento!",
+      "date": "2026-07-24",
+      "verified": false
+    },
+    {
+      "author": "Thiago P.",
+      "rating": 5,
+      "text": "No início fiquei um pouco receoso sobre comprar algo tão caro online, mas o atendimento e o capricho do produto compensaram. Entrega extremamente rápida, o anel muito muito caprichado. Parabéns para o time. Sem dúvida compraria novamente e indicaria.",
+      "date": "2026-09-08",
+      "verified": true
+    }
+  ]
+}
