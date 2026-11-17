@@ -1,8 +1,8 @@
 {
   "productId": "223278723",
   "avg": 5,
-  "count": 17,
-  "updatedAt": "2026-10-30",
+  "count": 18,
+  "updatedAt": "2026-11-17",
   "reviews": [
     {
       "author": "Douglas B.",
@@ -122,6 +122,13 @@
       "text": "Excelente material. Atendimento ágil. Entrega rápida.",
       "date": "2026-09-23",
       "verified": true
+    },
+    {
+      "author": "Maria O.",
+      "rating": 5,
+      "text": "Simplesmente perfeito, desde o atendimento até a entrega da jóia. Joia extremamente delicada e com perfeito acabamento, atendimento de excelência e personalizado. A joia chegou  até antes do previsto.\nEstou simplesmente apaixonada, obrigada por toda atenção.",
+      "date": "2026-11-17",
+      "verified": false
     }
   ]
 }

@@ -1,14 +1,21 @@
 {
   "productId": "289561081",
   "avg": 5,
-  "count": 1,
-  "updatedAt": "2026-10-30",
+  "count": 2,
+  "updatedAt": "2026-11-17",
   "reviews": [
     {
       "author": "Allan",
       "rating": 5,
       "text": "Anel simplesmente lindo! Minha noiva amou, a pedra é maravilhosa e o acabamento impecável. Super recomendo.",
       "date": "2025-12-22",
+      "verified": false
+    },
+    {
+      "author": "Patrick P.",
+      "rating": 5,
+      "text": "Anel simplesmente maravilhoso! Acabamento impecável, muito delicado e elegante. O diamante é lindo e tem um brilho incrível. Minha noiva ficou encantada e adorou! Superou nossas expectativas. Recomendo muito!",
+      "date": "2026-11-16",
       "verified": false
     }
   ]
