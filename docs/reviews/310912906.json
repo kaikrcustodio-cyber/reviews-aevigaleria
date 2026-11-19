@@ -1,8 +1,8 @@
 {
   "productId": "310912906",
   "avg": 5,
-  "count": 1,
-  "updatedAt": "2026-10-30",
+  "count": 2,
+  "updatedAt": "2026-11-19",
   "reviews": [
     {
       "author": "Lilian V.",
@@ -10,6 +10,13 @@
       "text": "Anel lindo! Delicado! Perfeito!",
       "date": "2026-03-09",
       "verified": true
+    },
+    {
+      "author": "Lucas",
+      "rating": 5,
+      "text": "Ótimo atendimento, anel de qualidade, tudo conforme descrição.",
+      "date": "2026-11-19",
+      "verified": false
     }
   ]
 }
