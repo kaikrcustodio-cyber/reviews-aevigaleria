@@ -1,8 +1,8 @@
 {
   "productId": "239857625",
   "avg": 5,
-  "count": 12,
-  "updatedAt": "2026-10-30",
+  "count": 13,
+  "updatedAt": "2026-11-25",
   "reviews": [
     {
       "author": "Vera F.",
@@ -86,6 +86,13 @@
       "rating": 5,
       "text": "Excelente produto, ótimo qualidade e atendimento incrível. Profissionais sérios e dedicados, com comprometimento e equipe de vendas muito atenciosa!!!!",
       "date": "2026-09-26",
+      "verified": true
+    },
+    {
+      "author": "Vitor",
+      "rating": 5,
+      "text": "Atendimento maravilhoso! A joia é perfeita!! Muito obrigado.",
+      "date": "2026-11-25",
       "verified": true
     }
   ]
