@@ -1,8 +1,8 @@
 {
   "productId": "247916617",
   "avg": 5,
-  "count": 16,
-  "updatedAt": "2026-10-30",
+  "count": 18,
+  "updatedAt": "2026-11-27",
   "reviews": [
     {
       "author": "Alan A.",
@@ -114,6 +114,20 @@
       "rating": 5,
       "text": "Bem atenciosos",
       "date": "2026-10-29",
+      "verified": true
+    },
+    {
+      "author": "Flávia C.",
+      "rating": 5,
+      "text": "O anel é simplesmente maravilhoso, exatamente como sempre sonhei! Meu noivo comprou em julho e fez o pedido agora em novembro. O atendimento foi 100%, e o anel chegou muito bem embalado, acompanhado da garantia e da comprovação dos diamantes.\nEstou completamente apaixonada!\nMuito obrigada por fazerem parte de um momento tão especial da nossa história!",
+      "date": "2026-11-26",
+      "verified": false
+    },
+    {
+      "author": "Hander S.",
+      "rating": 5,
+      "text": "Maravilhoso! Além do atendimento excepcional, o Anel é super delicado e muito bem feito, vale cada real de investimento.",
+      "date": "2026-11-27",
       "verified": true
     }
   ]
